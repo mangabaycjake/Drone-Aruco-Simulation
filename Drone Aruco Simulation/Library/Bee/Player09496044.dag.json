@@ -327,7 +327,7 @@
       "DisplayName": "Writing boot.config_tyr4.info",
       "ActionType": "WriteFile",
       "PayloadOffset": 83,
-      "PayloadLength": 15943,
+      "PayloadLength": 16339,
       "PayloadDebugContentSnippet": "{\"System.Object\":null,\"Bee.Tun",
       "Inputs": [],
       "Outputs": [
@@ -424,17 +424,17 @@
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.WindModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.XRModule.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/mono/Managed/UnityEngine.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Assets/Packages/WebSocketSharp-netstandard.1.0.1/lib/netstandard2.0/websocket-sharp.dll",
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Assets/Packages/WebSocketSharp-netstandard.1.0.1/lib/netstandard2.0/websocket-sharp.dll",
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Facades/netstandard.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/Mono.Security.dll",
         "C:/Program Files/Unity/Hub/Editor/2022.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32/System.ComponentModel.Composition.dll",
@@ -1340,7 +1340,7 @@
       "DisplayName": "Copying Assembly-CSharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Assembly-CSharp.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Assembly-CSharp.dll"
@@ -1352,7 +1352,7 @@
       "DisplayName": "Copying Unity.Timeline.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.Timeline.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.Timeline.dll"
@@ -1364,7 +1364,7 @@
       "DisplayName": "Copying Unity.InputSystem.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.InputSystem.dll"
@@ -1376,7 +1376,7 @@
       "DisplayName": "Copying Unity.InputSystem.ForUI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.InputSystem.ForUI.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.InputSystem.ForUI.dll"
@@ -1388,7 +1388,7 @@
       "DisplayName": "Copying UnityEngine.UI.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/UnityEngine.UI.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/UnityEngine.UI.dll"
@@ -1400,7 +1400,7 @@
       "DisplayName": "Copying Unity.TextMeshPro.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.TextMeshPro.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.TextMeshPro.dll"
@@ -1412,7 +1412,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Core.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Core.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.VisualScripting.Core.dll"
@@ -1424,7 +1424,7 @@
       "DisplayName": "Copying Unity.VisualScripting.State.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.State.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.VisualScripting.State.dll"
@@ -1436,7 +1436,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Flow.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/PlayerScriptAssemblies/Unity.VisualScripting.Flow.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.VisualScripting.Flow.dll"
@@ -1448,7 +1448,7 @@
       "DisplayName": "Copying websocket-sharp.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Assets/Packages/WebSocketSharp-netstandard.1.0.1/lib/netstandard2.0/websocket-sharp.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Assets/Packages/WebSocketSharp-netstandard.1.0.1/lib/netstandard2.0/websocket-sharp.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/websocket-sharp.dll"
@@ -1460,7 +1460,7 @@
       "DisplayName": "Copying Unity.VisualScripting.Antlr3.Runtime.dll",
       "ActionType": "CopyFiles",
       "Inputs": [
-        "D:/Users/admin/Documents/DAS - Unity Proj/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+        "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/PackageCache/com.unity.visualscripting@1.9.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
       ],
       "Outputs": [
         "Build/Drone Simulation_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
@@ -1723,7 +1723,7 @@
       "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
       "DisplayName": "Writing app.info",
       "ActionType": "WriteFile",
-      "PayloadOffset": 16115,
+      "PayloadOffset": 16511,
       "PayloadLength": 31,
       "PayloadDebugContentSnippet": "DefaultCompany\nDrone Simulatio",
       "Inputs": [],
@@ -2392,6 +2392,6 @@
   "SharedResources": [],
   "Scanners": [],
   "Identifier": "Library/Bee/Player09496044.dag.json",
-  "PayloadsFile": "D:/Users/admin/Documents/DAS - Unity Proj/Library/Bee/Player09496044.dag.payloads",
+  "PayloadsFile": "D:/Users/admin/Documents/GitHub/Drone-Aruco-Simulation/Drone Aruco Simulation/Library/Bee/Player09496044.dag.payloads",
   "RelativePathToRoot": "../.."
 }

@@ -70,3 +70,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore These
+/Drone Aruco Simulation/Library/
+/Drone Aruco Simulation/Temp/
+/Drone Aruco Simulation/Logs/
+/Drone Aruco Simulation/Build/

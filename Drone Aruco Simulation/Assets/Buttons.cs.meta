@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 16baa1d876d0a0f4a85c999a927f0458
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - goOptionPanel: {instanceID: 0}
+  - goDrone: {instanceID: 0}
+  - goDummy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
